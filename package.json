@@ -1,0 +1,16 @@
+{
+  "name": "pongRanker",
+  "version": "1.0.0",
+  "description": "You like ping pong so much you want to rank yourself against coworkers, and friends? Boom. This motherfucker uses the ELO algo to rank opponents. Play on, playa.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "deanshelton913",
+  "license": "ISC",
+  "dependencies": {
+    "elo-rank": "^0.2.2",
+    "express": "^4.13.1",
+    "jasmine": "^2.3.1"
+  }
+}
